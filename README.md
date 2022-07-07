@@ -1,6 +1,6 @@
 # MemeDeck
 
-Use it now: [https://khaoz-topsy.github.io/Stream-Meme-Deck](https://khaoz-topsy.github.io/Stream-Meme-Deck)
+Use it now: [meme-deck.assistantapps.com](https://meme-deck.assistantapps.com)
 
 ---
 
