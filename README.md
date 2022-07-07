@@ -1,6 +1,6 @@
 # MemeDeck
 
-Use it now: [meme-deck.assistantapps.com](https://meme-deck.assistantapps.com)
+Use it now: [meme-deck.assistantapps.stream/](http://meme-deck.assistantapps.stream)
 
 ---
 
